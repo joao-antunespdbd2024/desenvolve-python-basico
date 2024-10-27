@@ -1,0 +1,8 @@
+1.leia e guarde o número n que deseja multiplicar por 9
+2.subtraia n-1 e guarde como o primeiro digito n1
+3.subtraia 10-n e guarde como o primeiro digito n2
+4.efetue a expressão (n1*10)+n2 e guarde como resultado rs
+5.apresente rs e encerre o programa
+
+9*5=5-1,10-5
+9*5=4*10+5
